@@ -242,11 +242,16 @@
   color: #000;
   text-align: center;
   -webkit-text-stroke-width: .5px;
-  max-width: 500px;
+  max-width: 940px;
   font-family: Architects Daughter, sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 110%;
+}
+
+.text-block-3._1 {
+  max-width: 800px;
+  margin-bottom: 20px;
 }
 
 .div-block-6 {
@@ -282,6 +287,10 @@
 .div-block-8 {
   background-color: #000;
   overflow: hidden;
+}
+
+.body {
+  background-color: #00faba;
 }
 
 @media screen and (max-width: 479px) {
